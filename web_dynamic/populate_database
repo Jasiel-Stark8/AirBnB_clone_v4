@@ -1,0 +1,33 @@
+AMENITIES
+
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Iron');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Laptop-friendly workspace');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Private entrance');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Free parking');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Hot tub');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Kitchen');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Washer');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Dryer');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'WiFi');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Breakfast');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Air conditioning');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Heating');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Smoke alarm');
+INSERT INTO amenities (id, name) VALUES (UUID(), 'Carbon monoxide alarm');
+
+
+
+STATES
+
+INSERT INTO states (id, name) VALUES (UUID(), 'California');
+INSERT INTO states (id, name) VALUES (UUID(), 'New York');
+INSERT INTO states (id, name) VALUES (UUID(), 'Texas');
+INSERT INTO states (id, name) VALUES (UUID(), 'Florida');
+INSERT INTO states (id, name) VALUES (UUID(), 'Washington');
+INSERT INTO states (id, name) VALUES (UUID(), 'Nevada');
+INSERT INTO states (id, name) VALUES (UUID(), 'Illinois');
+INSERT INTO states (id, name) VALUES (UUID(), 'Georgia');
+INSERT INTO states (id, name) VALUES (UUID(), 'Colorado');
+INSERT INTO states (id, name) VALUES (UUID(), 'Ohio');
+
+
