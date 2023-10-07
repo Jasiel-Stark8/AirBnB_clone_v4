@@ -20,5 +20,5 @@ header .logo {
 }
 
 .available {
-    background-color: #ff545f !important; /* Must add important to show */
+    background-color: #ff545f; /* Must add important to show */
 }
